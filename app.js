@@ -1,4 +1,4 @@
-const yourDate = new Date("2022-12-24T00:00:00"),
+const yourDate = new Date("2002-05-25T00:00:00"),
   music = ["myheart", "betifulinwhite", "mylove"];
 
 document.addEventListener(
